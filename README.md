@@ -2,4 +2,4 @@
 
 Calculator App written in Swift UI.
 
-![app screenshot](.github/screenshot.png)
+![app screenshot](.github/screenshot.png)
